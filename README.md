@@ -1,2 +1,2 @@
 # Abarrotes
-Sistema de abarrotes para proyecto escolar
+Sistema de abarrotes para proyecto escolar b
